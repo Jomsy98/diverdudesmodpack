@@ -91,11 +91,6 @@ hash = "61dbbdcc41c7bf50540b8d1e83fdf61d9367f392690b45d3cdece8aad55370ac"
 metafile = true
 
 [[files]]
-file = "mods/drippy-early-loading-module.pw.toml"
-hash = "5fea3c19a3984ad752fd965510c4f8847c5100d001c31cbe46373628de729e06"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
 metafile = true
