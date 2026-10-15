@@ -1,15 +1,273 @@
 {
-	"modpack": {
-		"name": "My Awesome Modpack",
-		"description": "A collection of mods that enhance gameplay and add new features.",
-		"version": "1.0.0",
-		"minecraft": {
-			"version": "1.21.10"
-		},
-		"modLoader": {
-			"type": "fabric",
-			"version": "0.17.3"
-		}
-	},
-	"mods": []
+  "modpack": {
+    "name": "Quickdraw Minekirk",
+    "description": "For the boys",
+    "version": "1.0.0",
+    "minecraft": {
+      "version": "1.21.1"
+    },
+    "modLoader": {
+      "type": "neoforge",
+      "version": "0.17.3"
+    }
+  },
+  "mods": [
+    {
+      "id": "LNytGWDc",
+      "name": "Create",
+      "source": "modrinth",
+      "description": "Aesthetic Technology that empowers the Player",
+      "iconUrl": "https://cdn.modrinth.com/data/LNytGWDc/61d716699bcf1ec42ed4926a9e1c7311be6087e2_96.webp",
+      "author": "simibubi"
+    },
+    {
+      "id": "TKB6INcv",
+      "name": "Ars Nouveau",
+      "source": "modrinth",
+      "description": "Craft spells and construct magical automations",
+      "iconUrl": "https://cdn.modrinth.com/data/TKB6INcv/7ccd369857b70b16e0fbd3f10e5278b0f75c7772_96.webp",
+      "author": "baileyholl"
+    },
+    {
+      "id": "nBqivi8H",
+      "name": "Draconic Evolution",
+      "source": "modrinth",
+      "description": "End game tech",
+      "iconUrl": "https://cdn.modrinth.com/data/nBqivi8H/990a99155e8617963e69735623f3e179fc6b8753_96.webp",
+      "author": "brandon3055"
+    },
+    {
+      "id": "u6dRKJwZ",
+      "name": "Just Enough Items (JEI)",
+      "source": "modrinth",
+      "description": "View Items and Recipes",
+      "iconUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
+      "author": "mezz"
+    },
+    {
+      "id": "aC3cM3Vq",
+      "name": "Mouse Tweaks",
+      "source": "modrinth",
+      "description": "Enhances inventory management by adding various functions to the mouse buttons. ",
+      "iconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+      "author": "YaLTeR"
+    },
+    {
+      "id": "nvQzSEkH",
+      "name": "Jade 🔍",
+      "source": "modrinth",
+      "description": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
+      "iconUrl": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+      "author": "Snownee"
+    },
+    {
+      "id": "1bokaNcj",
+      "name": "Xaero's Minimap",
+      "source": "modrinth",
+      "description": "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
+      "iconUrl": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+      "author": "thexaero"
+    },
+    {
+      "id": "NcUtCpym",
+      "name": "Xaero's World Map",
+      "source": "modrinth",
+      "description": "Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.",
+      "iconUrl": "https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+      "author": "thexaero"
+    },
+    {
+      "id": "7mLhyqIY",
+      "name": "Xaero's Minimap & World Map - Waystones Compatibility",
+      "source": "modrinth",
+      "description": "Creates a Waypoint in Xaero's Minimap & World Map when activate a Waystone",
+      "iconUrl": "https://cdn.modrinth.com/data/7mLhyqIY/96b55dd90229d62b665d1fb37ca3e25250df78e5_96.webp",
+      "author": "arcanealloy"
+    },
+    {
+      "id": "LOpKHB2A",
+      "name": "Waystones",
+      "source": "modrinth",
+      "description": "Teleport from waystone to waystone or craft magical scrolls to warp.",
+      "iconUrl": "https://cdn.modrinth.com/data/LOpKHB2A/d56c030a875582aff5bab477ddcfec317a1610f0_96.webp",
+      "author": "BlayTheNinth"
+    },
+    {
+      "id": "VaCl9OtG",
+      "name": "Waystones Teleport Pets",
+      "source": "modrinth",
+      "description": "Addon for Waystones to make Pets teleport with you when using a Waystone without need to attach them to a lead",
+      "iconUrl": "https://cdn.modrinth.com/data/VaCl9OtG/ec44309104bda9d688956f3252dcac055a1f5eb4_96.webp",
+      "author": "arcanealloy"
+    },
+    {
+      "id": "TyCTlI4b",
+      "name": "Sophisticated Backpacks",
+      "source": "modrinth",
+      "description": "Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades",
+      "iconUrl": "https://cdn.modrinth.com/data/TyCTlI4b/e31c7e2f8769d317339e25b2a8d1b40fbf312729_96.webp",
+      "author": "P3pp3rF1y"
+    },
+    {
+      "id": "YL57xq9U",
+      "name": "Iris Shaders",
+      "source": "modrinth",
+      "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
+      "iconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
+      "author": "coderbot"
+    },
+    {
+      "id": "Wq5SjeWM",
+      "name": "FancyMenu",
+      "source": "modrinth",
+      "description": "Customize Minecraft's menus with ease!",
+      "iconUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/e4e82d028244a1326e6d346bf5b5336140576bb9_96.webp",
+      "author": "Keksuccino"
+    },
+    {
+      "id": "R2OftAxM",
+      "name": "Farmer's Delight",
+      "source": "modrinth",
+      "description": "A cozy expansion to farming and cooking!",
+      "iconUrl": "https://cdn.modrinth.com/data/R2OftAxM/8e7aa38ab94d94bb0a2894a218b69beb49002b34.png",
+      "author": "vectorwing"
+    },
+    {
+      "id": "nU0bVIaL",
+      "name": "Patchouli",
+      "source": "modrinth",
+      "description": "Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers",
+      "iconUrl": "https://cdn.modrinth.com/data/nU0bVIaL/c271809dda89c9e7a39f19d91f7cf6fba3ede585_96.webp",
+      "author": "Vazkii"
+    },
+    {
+      "id": "qyVF9oeo",
+      "name": "Sound Physics Remastered",
+      "source": "modrinth",
+      "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+      "iconUrl": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
+      "author": "henkelmax"
+    },
+    {
+      "id": "MPCX6s5C",
+      "name": "Not Enough Animations",
+      "source": "modrinth",
+      "description": "Bringing first-person animations to the third-person",
+      "iconUrl": "https://cdn.modrinth.com/data/MPCX6s5C/b97fd5f7a893165052408b747286d6eb38d57abb_96.webp",
+      "author": "tr7zw"
+    },
+    {
+      "id": "h1E7sQNL",
+      "name": "Customizable Player Models",
+      "source": "modrinth",
+      "description": "Customize your minecraft avatar!",
+      "iconUrl": "https://cdn.modrinth.com/data/h1E7sQNL/e9535e89447a025e014f9a319d752861982f97fa_96.webp",
+      "author": "tom5454"
+    },
+    {
+      "id": "XxWD5pD3",
+      "name": "Applied Energistics 2",
+      "source": "modrinth",
+      "description": "AE2: A popular automation and storage mod",
+      "iconUrl": "https://cdn.modrinth.com/data/XxWD5pD3/60b001515abbf6ebf32bc2729b0ddd95d2793feb_96.webp",
+      "author": "shartte"
+    },
+    {
+      "id": "mYGTCuZY",
+      "name": "Create: Applied Kinetics",
+      "source": "modrinth",
+      "description": "Applied Kinetics's integration with Create",
+      "iconUrl": "https://cdn.modrinth.com/data/mYGTCuZY/c6e0b78a7b34f631ac1cf20a8740aed015919b3f_96.webp",
+      "author": "Forsteri123"
+    },
+    {
+      "id": "248020",
+      "name": "Flux Networks",
+      "source": "curseforge",
+      "description": "Wireless Energy Networks, compatible with FE/EU/RF/TESLA/AE",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/46/154/256/256/636051356428336066.png",
+      "author": "sonar_sonic"
+    },
+    {
+      "id": "2gq0ALnz",
+      "name": "CodeChicken Lib",
+      "source": "modrinth",
+      "slug": "codechicken-lib",
+      "description": "Contains various libraries for 3D math and transformations, rendering, networking, configs, and much, much more.",
+      "iconUrl": "https://cdn.modrinth.com/data/2gq0ALnz/bd9432524341db1b71b3d0a64d92383ba90d2725_96.webp",
+      "author": "covers1624"
+    },
+    {
+      "id": "iFDWVIFV",
+      "name": "Brandons Core",
+      "source": "modrinth",
+      "slug": "brandons-core",
+      "description": "Brandon's Core is a library mod used by most of my mods.",
+      "iconUrl": "https://cdn.modrinth.com/data/iFDWVIFV/88eadeb39915da8aa1afdb8fbe707b3b0fc727eb_96.webp",
+      "author": "brandon3055"
+    },
+    {
+      "id": "7tEfOcA7",
+      "name": "MezzConfig",
+      "source": "modrinth",
+      "slug": "mezzconfig",
+      "description": "Simple configuration library for Minecraft Mods",
+      "iconUrl": "https://cdn.modrinth.com/data/7tEfOcA7/afd8afef2372805ff11f89425284129eebf87a1c_96.webp",
+      "author": "mezz"
+    },
+    {
+      "id": "MBAkmtvl",
+      "name": "Balm",
+      "source": "modrinth",
+      "slug": "balm",
+      "description": "Abstraction Layer for Multi-Loader Mods",
+      "iconUrl": "https://cdn.modrinth.com/data/MBAkmtvl/285b7bcfd6e525c043e640b08f3efc0cde90f7dd_96.webp",
+      "author": "BlayTheNinth"
+    },
+    {
+      "id": "nmoqTijg",
+      "name": "Sophisticated Core",
+      "source": "modrinth",
+      "slug": "sophisticated-core",
+      "description": "Library mod for Sophisticated mods",
+      "iconUrl": "https://cdn.modrinth.com/data/nmoqTijg/83f980596761b59f5c3e4e4d2c90d031d9d69ff6.png",
+      "author": "P3pp3rF1y"
+    },
+    {
+      "id": "AANobbMI",
+      "name": "Sodium",
+      "source": "modrinth",
+      "slug": "sodium",
+      "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
+      "iconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "author": "IMS"
+    },
+    {
+      "id": "J81TRJWm",
+      "name": "Konkrete",
+      "source": "modrinth",
+      "slug": "konkrete",
+      "description": "Just another boring library mod.",
+      "iconUrl": "https://cdn.modrinth.com/data/J81TRJWm/f27c753fd9ec7944b49f4fe2d7cfd32527340183_96.webp",
+      "author": "Keksuccino"
+    },
+    {
+      "id": "CVT4pFB2",
+      "name": "Melody",
+      "source": "modrinth",
+      "slug": "melody",
+      "description": "OpenAL-based library mod for playing background music.",
+      "iconUrl": "https://cdn.modrinth.com/data/CVT4pFB2/87ac2562f06b104c827d322b4b937bad8fac5fbc_96.webp",
+      "author": "Keksuccino"
+    },
+    {
+      "id": "Ck4E7v7R",
+      "name": "GuideME",
+      "source": "modrinth",
+      "slug": "guideme",
+      "description": "A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!",
+      "iconUrl": "https://cdn.modrinth.com/data/Ck4E7v7R/04e8cbe7daff69feb20bf114074475001d9c7be5.png",
+      "author": "shartte"
+    }
+  ]
 }

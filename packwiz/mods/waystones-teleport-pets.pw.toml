@@ -1,0 +1,13 @@
+name = "Waystones Teleport Pets"
+filename = "WaystonesTeleportPets-1.2-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VaCl9OtG/versions/IfFcvSl5/WaystonesTeleportPets-1.2-neoforge-26.1.2.jar"
+hash-format = "sha512"
+hash = "e3e78651e659280db88b86e943c443aba5e1e3fa714a6b462ccf16669ffc4d6bf62bbbcd31e7b6d57ccf677be1fbd232d86f7e129b13c90d156321c0029ae515"
+
+[update]
+[update.modrinth]
+mod-id = "VaCl9OtG"
+version = "IfFcvSl5"
