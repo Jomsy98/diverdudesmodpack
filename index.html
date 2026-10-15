@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{{MODPACK_NAME}}</title>
+    <meta name="description" content="{{MODPACK_DESCRIPTION}}" />
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <div class="logo-wrap">
+          <img id="logoImg" alt="modpack logo" src="./server-icon.png" onerror="this.onerror=null;this.src='prism/modpack.png'" />
+        </div>
+        <div>
+          <h1 id="packName">{{MODPACK_NAME}}</h1>
+          <p class="lead">{{MODPACK_DESCRIPTION}}</p>
+        </div>
+      </header>
+
+      <div class="grid">
+        <main>
+          <section class="card install-steps">
+            <h2>How to install</h2>
+            <p class="small">Quick steps to get started with Prism Launcher</p>
+            <ol>
+              <li>Install <a href="https://prismlauncher.org/" style="color:var(--accent);text-decoration:none">Prism Launcher</a> (Windows / macOS / Linux).</li>
+              <li>Right click the "Download Pack" button below and copy the url. Or download the file directly.</li>
+              <li>Open Prism and import the downloaded pack. You can paste the url and prism will download it directly.</li>
+              <li>Launch the modpack and enjoy!</li>
+            </ol>
+            <div style="margin-top:12px">
+              <a class="btn" id="downloadBtn" href="{{DOWNLOAD_URL}}">Download Pack ({{ZIP_FILENAME}})</a>
+            </div>
+          </section>
+        </main>
+
+        <aside>
+          <div id="modsCard" class="card mods-card-extended">
+            <h2>Installed Mods</h2>
+            <div id="modsList" class="mods-list">
+              <p class="small">Loading mods...</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+
+    </div>
+
+    <script>
+      (async function(){
+        const listEl = document.getElementById('modsList');
+        try {
+          const res = await fetch('./pwbuilder.json');
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const data = await res.json();
+          const mods = Array.isArray(data?.mods) ? data.mods : [];
+
+          if (mods.length === 0) {
+            listEl.innerHTML = '<p class="small">No mods listed yet.</p>';
+            return;
+          }
+
+          const ul = document.createElement('ul');
+          mods.forEach(mod => {
+            const li = document.createElement('li');
+            const name = sanitize(mod?.name ?? mod?.slug ?? mod?.id ?? 'Unknown Mod');
+            const author = sanitize(mod?.author ?? 'Unknown');
+            const version = sanitize(mod?.version ?? '');
+            const desc = sanitize(mod?.description ?? '');
+            const iconUrl = typeof mod?.iconUrl === 'string' ? mod.iconUrl : '';
+            const source = mod?.source;
+            const slug = mod?.slug;
+
+            let link = '';
+            if (source === 'curseforge' && slug) {
+              link = `https://www.curseforge.com/minecraft/mc-mods/${encodeURIComponent(slug)}`;
+            }
+
+            li.innerHTML = `
+              <div style="display:flex;align-items:center;gap:10px">
+                ${iconUrl ? `<img src="${encodeURI(iconUrl)}" alt="" style="width:28px;height:28px;border-radius:6px;object-fit:cover">` : ''}
+                <div>
+                  <strong>${name}</strong> ${version ? `<span class="meta">v${version}</span>` : ''}
+                  <div class="meta">by ${author}${desc ? ` — ${desc}` : ''}</div>
+                  ${link ? `<div class="small"><a href="${link}" style="color:var(--accent);text-decoration:none">CurseForge</a></div>` : ''}
+                </div>
+              </div>`;
+            ul.appendChild(li);
+          });
+
+          listEl.innerHTML = '';
+          listEl.appendChild(ul);
+        } catch (e) {
+          listEl.innerHTML = '<p class="small">Unable to load mods list.</p>';
+          console.error('Failed to load pwbuilder.json:', e);
+        }
+
+        function sanitize(str){
+          return String(str)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#39;");
+        }
+      })();
+    </script>
+  </body>
+</html>
