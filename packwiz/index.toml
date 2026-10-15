@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "4ff3a34a80876888f8b7091dcd960f5aa67662a09bf5ac9476551e0476351adc"
+hash = "ab919e8dbd9fa214ee8498a8e0f6714e9f401afbad4f259a4bdeaf1f07263c6b"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f44fc72e3fb78fbde38125fd4a12ed69a90c016c1cf43b2714761e1e33d0626f"
+hash = "7358789081b9ff127b20b86bee860392e60587fa90c3e61a3a05c8983f06013d"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "236e466ebf65c806c7cc0739c4b6256789a00054166ed05dacdf156418b7b891"
+hash = "960a56ecd60197601d3f32e37aa68284c77d01f88a27a63d210ebbf1afa4df27"
 metafile = true
 
 [[files]]
