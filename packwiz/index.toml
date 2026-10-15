@@ -1,2 +1,156 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "a50a801c1112f5697ed2d94517a557f6564a42c5ccb86640469a61ce01490c3f"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d49a27d42b2f94bb98a606d13078da11907678a587419e9d19dbf82c53fa51da"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "1e1678b169096708fcb92496f251260471221554f70ca0dab1b99f2a6b72ea7b"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "4ff3a34a80876888f8b7091dcd960f5aa67662a09bf5ac9476551e0476351adc"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "61dbbdcc41c7bf50540b8d1e83fdf61d9367f392690b45d3cdece8aad55370ac"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "ffcc745653a74357f5d96a4bb0e3ad965d1c3734ab001be460d075500a6dfa51"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "389123aa887f1fe06f01e8694b29938413343b175a505c045610e7b365130fa8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "05c6a3194fc107ce78565058b885d73027793df34ad2daa03b8324259219ddb7"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ca3c698fd85c4d6c467a146cd4a076bc82d79e6b83d640487cd1aa92ba448dec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "f44fc72e3fb78fbde38125fd4a12ed69a90c016c1cf43b2714761e1e33d0626f"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "e05b5dce6d8d60dc30da7bf8983016ffdaa629bdad02869a3d1ae5267be3a96f"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "7c6d5b8f8ab4a0c2475dc57dc13dde993d85bad991256bcfa88c71babe38a51f"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "ceab489d8828b1e5ca064999100c97a56f8db27aa8a4d1bb8c83e72db9e40d7a"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "5f286a096b660687eced98aa5752ad61de3a4026b54562ed732138e751bce410"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "204c5b737a0fc67ec9a491089a3185682249814e20c729fecc6bcfd1eb594ec1"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "f316e5119a521462c37ac6f22e347f0c1dc1a3fdee192444efd0937bcc0b7bb8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "44a8b8df6c2cfd1e73733f2991e44e5ebf60c3a2b2c33f4fd1292e8b4a129f7e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "cf899b372caf49c623f31d0ee62be4ca08b44e12f05a643fc7b84608b8dcb40a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "236e466ebf65c806c7cc0739c4b6256789a00054166ed05dacdf156418b7b891"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3934ff3305955b5d0852cacfd7978b2cd86144f8a03bdabfb478b62fc5e46170"
+metafile = true
+
+[[files]]
+file = "mods/waystones-teleport-pets.pw.toml"
+hash = "294292562069fe3fceb3fef814b752bf8ec0179710e5313ee0623aa98f2d74e9"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "25afa9ed2734574829c6d3d7ec4e6f34b5588ad0df71b70e885435c4488646ab"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9ee1560bd19d1fc84bdb0aee6d3df315d65c41327ffce273d5fea8d244366112"
+metafile = true
