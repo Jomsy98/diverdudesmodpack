@@ -1,13 +1,13 @@
 name = "Melody"
-filename = "melody_neoforge_1.0.17_MC_26.3.jar"
+filename = "melody_neoforge_1.0.10_MC_1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/2saEF7mZ/melody_neoforge_1.0.17_MC_26.3.jar"
+url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar"
 hash-format = "sha512"
-hash = "790aed406491a3bf05bafcd93d68b7c2ed54b646e9846f0850a1b60f15156f0eb36172b24fe8e4129f369e6f7ac5d872ffc7ec2848ab2c9c0c4fe2af7f204d03"
+hash = "3bd96b851a65fa95d92d051851e6a7a415927f718fcb05f0dfb5983eb3ca54edfb842ea85f1497e1b3510b5884181b8f9c6080d2b15642ceadac695011c00ec1"
 
 [update]
 [update.modrinth]
 mod-id = "CVT4pFB2"
-version = "2saEF7mZ"
+version = "efcdRVZP"
