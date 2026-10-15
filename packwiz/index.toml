@@ -91,11 +91,6 @@ hash = "61dbbdcc41c7bf50540b8d1e83fdf61d9367f392690b45d3cdece8aad55370ac"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "d89b50af502aab4416e07fa8f92433a18fac11285fe1c39ebccea610dbfdd1e7"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
 metafile = true
@@ -103,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
 hash = "a45c329c4b342e78f2f8b7fd8263b6fd5a133e088d7738900f18c6b8fb31eca3"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "26975365054fadd972780c02ec9c5e7b394abcf3fc9f75d59ed3f7e5ead8f3e7"
 metafile = true
 
 [[files]]
@@ -257,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "2057c4d3699348a75e8ad5127cbabf8a1c01cae1f5bc32918812075996ba4d13"
+hash = "1329ed84360c9702c1b982bba75ce2782c4213b119efb7328959938fa1748a8e"
 metafile = true
 
 [[files]]
