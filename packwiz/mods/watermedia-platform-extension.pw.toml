@@ -1,0 +1,13 @@
+name = "WATERMeDIA: Platform Extension"
+filename = "watermedia_platform_extension-3.0.0-beta.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc762797c68765af5c65fc23adbc75017fa65e0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8327612
+project-id = 1395870
