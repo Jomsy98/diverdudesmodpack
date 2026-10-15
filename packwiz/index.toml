@@ -226,11 +226,6 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
-file = "mods/villgernewsmod.pw.toml"
-hash = "865c991147c5a88c0866b8ad5e8abc40a825915b600794ac066cf3dc61fc0b64"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "2684f71394862cff4c20d0f4d8491c0f86f12e66879381295e9088e0eded025d"
 metafile = true
