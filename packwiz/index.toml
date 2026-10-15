@@ -236,11 +236,6 @@ hash = "5d5b144eb42a6a6d505c720a3f04c6b84be39165ccf08c3f1a01dabf0e75b2ac"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-binaries.pw.toml"
-hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
 hash = "1329ed84360c9702c1b982bba75ce2782c4213b119efb7328959938fa1748a8e"
 metafile = true
