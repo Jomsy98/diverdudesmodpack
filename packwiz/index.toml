@@ -241,18 +241,8 @@ hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-platform-extension.pw.toml"
-hash = "abcedc64dbc2e5253aaa3a2d1ff0a6a1f7bc025adb56a7e15d2ad36595e165a2"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "2057c4d3699348a75e8ad5127cbabf8a1c01cae1f5bc32918812075996ba4d13"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "022c8bb3430adc4826aa93ec69a378fc6b200aa9a6b6cde1ca499aeaed441e5d"
+hash = "1329ed84360c9702c1b982bba75ce2782c4213b119efb7328959938fa1748a8e"
 metafile = true
 
 [[files]]
