@@ -1,0 +1,8 @@
+name = "villagernewsmods"
+filename = "VillagerNews-Mod-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://jomsy98.github.io/diverdudesmodpack/custom/VillagerNews-Mod-1.21.1.jar"
+hash-format = "sha256"
+hash = "04368842273947c306f955edd7e711451122c32e029902df0b5a77f5c238f75c"
