@@ -1,7 +1,7 @@
-name = "{{MODPACK_NAME}}"
-version = "{{MODPACK_VERSION}}"
+name = "Quickdraw Minekirk"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [versions]
-{{MODLOADER}} = "{{MODLOADER_VERSION}}"
-minecraft = "{{MINECRAFT_VERSION}}"
+minecraft = "1.21.1"
+neoforge = "0.17.3"
