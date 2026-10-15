@@ -1,5 +1,5 @@
-# {{MODPACK_NAME}}
-{{MODPACK_DESCRIPTION}}
+# Quickdraw Minekirk
+For the boys
 
 ## Installation Instructions
 
