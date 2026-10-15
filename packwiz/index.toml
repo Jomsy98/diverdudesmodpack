@@ -166,11 +166,6 @@ hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
-file = "mods/littleframes.pw.toml"
-hash = "21804d1debf8fedb7231e2d7d80788b5d583836ac98478877b66d79bd9ca75e1"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
@@ -248,16 +243,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia-binaries.pw.toml"
 hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-platform-extension.pw.toml"
-hash = "abcedc64dbc2e5253aaa3a2d1ff0a6a1f7bc025adb56a7e15d2ad36595e165a2"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "1329ed84360c9702c1b982bba75ce2782c4213b119efb7328959938fa1748a8e"
 metafile = true
 
 [[files]]
