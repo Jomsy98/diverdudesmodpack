@@ -96,11 +96,6 @@ hash = "5fea3c19a3984ad752fd965510c4f8847c5100d001c31cbe46373628de729e06"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "d89b50af502aab4416e07fa8f92433a18fac11285fe1c39ebccea610dbfdd1e7"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
 metafile = true
@@ -108,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
 hash = "a45c329c4b342e78f2f8b7fd8263b6fd5a133e088d7738900f18c6b8fb31eca3"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "26975365054fadd972780c02ec9c5e7b394abcf3fc9f75d59ed3f7e5ead8f3e7"
 metafile = true
 
 [[files]]
@@ -247,12 +237,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "67d3ea0f6c097f6c25d9c677671a806056d0f4af930d230b9f959495a06ac432"
+hash = "5d5b144eb42a6a6d505c720a3f04c6b84be39165ccf08c3f1a01dabf0e75b2ac"
 metafile = true
 
 [[files]]
 file = "mods/watermedia-binaries.pw.toml"
 hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-platform-extension.pw.toml"
+hash = "abcedc64dbc2e5253aaa3a2d1ff0a6a1f7bc025adb56a7e15d2ad36595e165a2"
 metafile = true
 
 [[files]]
