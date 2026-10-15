@@ -66,6 +66,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9872a039a5c245ece1345292c9855228accc8cf15f02cfb45ef8bcc8578d643a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -151,8 +156,18 @@ hash = "7358789081b9ff127b20b86bee860392e60587fa90c3e61a3a05c8983f06013d"
 metafile = true
 
 [[files]]
+file = "mods/keybind-atlas.pw.toml"
+hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
+file = "mods/littleframes.pw.toml"
+hash = "21804d1debf8fedb7231e2d7d80788b5d583836ac98478877b66d79bd9ca75e1"
 metafile = true
 
 [[files]]
@@ -231,6 +246,16 @@ hash = "2684f71394862cff4c20d0f4d8491c0f86f12e66879381295e9088e0eded025d"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2057c4d3699348a75e8ad5127cbabf8a1c01cae1f5bc32918812075996ba4d13"
+metafile = true
+
+[[files]]
 file = "mods/waystones-teleport-pets.pw.toml"
 hash = "2966bd8471246286be3d42515c7e89ca07ba7afd606f00ef6ffdc9a6ce150a1c"
 metafile = true
@@ -253,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+metafile = true
+
+[[files]]
+file = "mods/zoomlens.pw.toml"
+hash = "1f0d40622e34ae6bb749ba85942051f10673b02e5a2ec8e92f80866f5ea8dcfb"
 metafile = true
 
 [[files]]
