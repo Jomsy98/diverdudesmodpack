@@ -1,0 +1,8 @@
+name = "villgernewsmod"
+filename = "1.21.1"
+side = "both"
+
+[download]
+url = "https://www.villagernewsmod.com/download/1.21.1"
+hash-format = "sha256"
+hash = "abb14bdc4a37432f0da40c266e7f434e8e1575b035ac550abbb593d72ed4b530"
