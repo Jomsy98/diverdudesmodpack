@@ -1,11 +1,11 @@
 name = "Quickdraw Minekirk"
-version = "1.0.3"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6cb58c043ede3e5ef82b6aa5f1add798b413c38bdccb639aa2dbce4f54c44968"
+hash = "f00259cdc16b5835af55d9b8b6d7c99515c4e1d7e216d1992697ca9c5106e20a"
 
 [versions]
 minecraft = "1.21.1"
