@@ -1,0 +1,8 @@
+name = "villagernewsmods"
+filename = "villagernews-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/NycTheModman/VillagerNewsNeoForged/releases/download/v1.0.0/villagernews-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "7c25df72ce9032b4d29963b01aac02265e22fe31cb6fdd73e5d180dd82948764"
