@@ -6,8 +6,18 @@ hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
 
 [[files]]
+file = "mods/amber.pw.toml"
+hash = "fb2bbe5935f61871ae9ddc2e40d44c773f62cda0cfc211be22c4717268ad6485"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -96,6 +106,11 @@ hash = "61dbbdcc41c7bf50540b8d1e83fdf61d9367f392690b45d3cdece8aad55370ac"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
 metafile = true
@@ -113,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
@@ -156,11 +176,6 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "7358789081b9ff127b20b86bee860392e60587fa90c3e61a3a05c8983f06013d"
-metafile = true
-
-[[files]]
 file = "mods/keybind-atlas.pw.toml"
 hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
 metafile = true
@@ -168,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
+file = "mods/liteminer.pw.toml"
+hash = "73875f0d458e15ccf2e3db42d458502805dc0e407d51313e7c55f2a577761096"
 metafile = true
 
 [[files]]
@@ -223,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "6876c183b8154953471a24e47efc66b02fa88e9bf88b5ce910093d72d817fd45"
 metafile = true
 
 [[files]]
