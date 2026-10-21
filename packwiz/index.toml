@@ -47,12 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/brandons-core.pw.toml"
-hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
+hash = "7904c140247e0d8a87231cf4d36718fc018e0f851dbec2517b673acdc25547df"
 metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "ebff92228187b268d85833a4e2f9679fb6ea102ff84791ffe71e8cc1492d56f3"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "107f1089debe869dc912e119eedbc3f6b523dbdd8193719ba51ce476914f4f5a"
 metafile = true
 
 [[files]]
@@ -102,7 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
-hash = "61dbbdcc41c7bf50540b8d1e83fdf61d9367f392690b45d3cdece8aad55370ac"
+hash = "5b4d79435b6c6307cdcb141561b46a536fcf317a5661dbcafe33dfcde3cfe80f"
+metafile = true
+
+[[files]]
+file = "mods/draconic-insight.pw.toml"
+hash = "3305bbe31cabdc08e61d7d44bf54184491cc11c5abf1f3ec4304a288825a3843"
 metafile = true
 
 [[files]]
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.pw.toml"
+hash = "5f63fab4db6ca36f3b9f489dd1bb52fb1d1a69a3f0ff580758d083d606ff2600"
 metafile = true
 
 [[files]]
@@ -181,6 +196,11 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "2ffd0c6ed2e981835168a60cb3418482223ee02d22dd35d0bb541774fa89f81c"
+metafile = true
+
+[[files]]
 file = "mods/keybind-atlas.pw.toml"
 hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
 metafile = true
@@ -232,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]

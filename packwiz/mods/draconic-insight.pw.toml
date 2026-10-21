@@ -1,0 +1,13 @@
+name = "Draconic Insight"
+filename = "draconic_insight-neoforge-1.21.1-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99a7b12dc0cd517eb019ea078c9a0db083635c17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9124934
+project-id = 1709598
