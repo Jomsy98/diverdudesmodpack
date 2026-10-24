@@ -266,6 +266,11 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "0b24c1d1c740b7b5dfba1afc97c9fadd0e6fce127de8ed8d5e3b568f57bed9ac"
+metafile = true
+
+[[files]]
 file = "mods/physicsmod.pw.toml"
 hash = "cfadadac246f0279d885b64c6a38783e1cacaceec89c038ee4df1af2545d0f08"
 metafile = true
