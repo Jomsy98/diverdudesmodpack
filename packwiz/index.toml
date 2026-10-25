@@ -76,13 +76,23 @@ hash = "44253d33ea5dc68f091c810ee5b4d7371dccc87c1f390e3a2325105e56bfb8f7"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
 metafile = true
 
 [[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "2ae50d393e9a19b96d6941270333e1016210151e3aad6ecf3693b51275f4e59d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
 metafile = true
 
 [[files]]
