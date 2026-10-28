@@ -121,6 +121,11 @@ hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
+file = "mods/draconic-evolution-render-patcher.pw.toml"
+hash = "f31cc6e4ae7e29c0deb9bcb904158407ea80bf4ada2879c240c8f374397b5e2d"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "5b4d79435b6c6307cdcb141561b46a536fcf317a5661dbcafe33dfcde3cfe80f"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
+metafile = true
+
+[[files]]
+file = "mods/radiance-mod-linux.pw.toml"
+hash = "f5d680a60d9cf021b13d6757e583e1cc9957d3f54569c389654db0b60d152a57"
 metafile = true
 
 [[files]]

@@ -1,0 +1,18 @@
+name = "Radiance (Linux)"
+filename = "Radiance-0.1.6-alpha-neoforge-1.21.1-linux.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/13F9LPi5/versions/DaufG7Gq/Radiance-0.1.6-alpha-neoforge-1.21.1-linux.jar"
+hash-format = "sha512"
+hash = "689c77f6e1a2291f92d937b613d5849606fe5518a2311e8fdd0990e7391f9c87f148d71a82a0afaa6cea349c2ef5c46e884c435c7bcca1eb42fc65f409806289"
+
+[update]
+[update.modrinth]
+mod-id = "13F9LPi5"
+version = "DaufG7Gq"
+
+[option]
+optional = true
+description = "Hardware Ray Tracing support for Linux"
+default = false
