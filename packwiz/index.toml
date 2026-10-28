@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiance-mod-linux.pw.toml"
-hash = "f5d680a60d9cf021b13d6757e583e1cc9957d3f54569c389654db0b60d152a57"
+hash = "965d3966edab5edc6d7d0f503ab3876dec4169aa45b3161b60d0e64da41e00c7"
 metafile = true
 
 [[files]]
