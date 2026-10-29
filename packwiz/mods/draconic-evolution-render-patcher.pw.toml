@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8277268
 project-id = 1383702
+
+[option]
+optional = true
+description = "Fixes render issues for Draconic Evolution"
+default = true

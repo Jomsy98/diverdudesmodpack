@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconic-evolution-render-patcher.pw.toml"
-hash = "f31cc6e4ae7e29c0deb9bcb904158407ea80bf4ada2879c240c8f374397b5e2d"
+hash = "71a6d740a89d2b5cf03101a10b56e99b67da9ca0957eaaaa3abd6fd4d7bb5e52"
 metafile = true
 
 [[files]]
