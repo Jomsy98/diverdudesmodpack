@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7041300
 project-id = 323976
+
+[option]
+optional = true
+description = "Adds more Animations"
+default = true
