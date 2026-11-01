@@ -1,0 +1,8 @@
+name = "funnymobs"
+filename = "lewd_lewd_lewd.zip"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1236497083062816870/1566584608823320626/lewd_lewd_lewd.zip?ex=6ae9131c&is=6ae7c19c&hm=242804f772917d0cd0d615e9823f0f9c267db951733b2b17f9e7c56d2c52e39b"
+hash-format = "sha256"
+hash = "7ba9439cbe51e142b4a19abd7c40a0c7bd3cff70df9c1dc3bf697ce2e115d4b1"
