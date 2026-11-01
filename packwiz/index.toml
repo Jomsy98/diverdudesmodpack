@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
-hash = "ba3e4dd1e26e69785fababf773d7227e0d4a1d2e3cf42cf9cc1561026310cfd6"
+hash = "b8fb5079c8d8adedc619bd193912df0b7c9c60aa27ef852d6030cf11eb9d6686"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e0f1cef5482844e62c6fc3c7771fc9ef8385c47092248f76aa1fa271220b24e8"
+hash = "fb788281ab7224a67441d3614d075e6e0a2f46aff85a952d2cba256be97fa0f7"
 metafile = true
 
 [[files]]
