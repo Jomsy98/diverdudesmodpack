@@ -101,11 +101,6 @@ hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
 metafile = true
 
 [[files]]
-file = "mods/create-glue-adjust.pw.toml"
-hash = "92b79be659baffd44b80189e13673e04ab94d4b0fecf48dfd6a2959f32ca2f04"
-metafile = true
-
-[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "2ae50d393e9a19b96d6941270333e1016210151e3aad6ecf3693b51275f4e59d"
 metafile = true
