@@ -6,6 +6,11 @@ hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-iris-fix.pw.toml"
+hash = "0a9fc957057f3442fb85e06f713dbfed740a3f937aa15cdc1ff0a02bf999fba8"
+metafile = true
+
+[[files]]
 file = "mods/amber.pw.toml"
 hash = "fb2bbe5935f61871ae9ddc2e40d44c773f62cda0cfc211be22c4717268ad6485"
 metafile = true
